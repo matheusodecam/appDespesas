@@ -1,16 +1,12 @@
-# appdespesas
+# Aplicativo das Refeições
 
-A new Flutter project.
+### Conhecendo o aplicativo
 
-## Getting Started
+- **Tela Principal**
+<img src="https://github.com/matheusodecam/appDespesas/blob/main/pictures/telaInicial.png" width="200">
 
-This project is a starting point for a Flutter application.
+- **Modal do Formulário**
+<img src="https://github.com/matheusodecam/appDespesas/blob/main/pictures/modal.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Lista das despesas**
+<img src="https://github.com/matheusodecam/appDespesas/blob/main/pictures/listaDespesas.png" width="200">
